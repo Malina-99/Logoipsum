@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Logoipsum</title>
+
+   <link rel="stylesheet" href="./CSS/style.css">
+</head>
+<body>
+   <header>
+      <div class="header-box">
+         <a href="#"></a>
+            <img src="./img.svg/Logo Color.svg" alt="logo" class="logo">
+      </div>
+            <nav class="menu">
+               <ul>
+                  <li>
+                     <a href="">Home</a>
+                  </li>
+                  <li>
+                     <a href="">Features</a>
+                  </li>
+                  <li>
+                     <a href="">Pricing</a>
+                  </li>
+                  <li>
+                     <a href="">Blog</a>
+                  </li>
+               </ul>
+            </nav>
+         <div>
+            <button class="button-box">Get Started</button>
+         </div>
+      </div>
+   </header>
+   <section>
+      <div>
+         <img src="./img.svg/Hero 3D.svg" alt="Hero 3D">
+         <h1>Grow your subscription business</h1>
+         <p>Outcome-centered products that reduce churn, optimize pricing, and grow your subscription business end-to-end.</p>
+         <div>
+            <button>Get Started</button>
+            <button>Try</button>
+         </div>
+      </div>
+      <div></div>
+   </section>
+      <img src="./img.svg/Content Image 02.svg" alt="Image 02">
+      <h2>Subscription index</h2>
+         <button>Email</button>
+         <button>Try</button>
+   <section>
+      <h2>Get the right plan for future</h2>
+         <div>
+            <p>Starter</p>
+            <h3>Free</h3>
+            <p>1 Website <br>5 GB Hosting</br> Limited Support</p>
+
+            <button>Get Started</button>
+         </div>
+         <div>
+            <p>Premium</p>
+            <h3>$29/month</h3>
+            <p>1 Website <br>5 GB Hosting </br> Limited Support</p>
+            
+            <button>Get Started</button>
+         </div>
+         <div>
+            <p>Enterprise</p>
+            <h3>$49/month</h3>
+            <p>Unlimited Website <br> 50 GB Hosting </br>Premium Support</p>         
+            <button>Get Started</button>
+         </div>
+   </section>  
+
+   <section>
+
+
+   </section>  
+   <footer>
+      <div class="footer-box">
+         <a href="#"></a>
+            <img src="./img.svg/Logo Color.svg" alt="logo" class="logo">
+      </div>
+            <nav class="footer-menu">
+               <ul>
+                  <li>
+                     <a href="">Support</a>
+                  </li>
+                  <li>
+                     <a href="">Premium</a>
+                  </li>
+                  <li>
+                     <a href="">Pricing</a>
+                  </li>
+                  <li>
+                     <a href="">Blog</a>
+                  </li>
+               </ul>
+            </nav>
+      </div>
+   </footer>
+   <aside></aside>
+</body>
+</html>
